@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Melani safira and I'm a freshgraduate, from Politeknik Negeri Lampung</h2>
+<h2 align="left">Hi 👋! </h2>
+  <h2> My name is Melani safira and I'm a freshgraduate, from Politeknik Negeri Lampung</h2>
 
 ###
 
@@ -13,9 +14,6 @@
 <h2 align="left">I code with</h2>
 
 ###
-
-###
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
